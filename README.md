@@ -1,2 +1,4 @@
-# ImageLoder
-一个简单的图片三级缓存库
+# ImageLoader
+#一个简单的图片三级缓存库
+
+该库只具有简单的功能，通过传入一个图片的url和ImageView对象即可把图片显示在ImageView上，可以通过该库学习三级缓存的相关知识。
